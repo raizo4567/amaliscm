@@ -2,3 +2,4 @@ ketrampilan
 -membina repository di komputer
 -setempat bangunkan branch
 -gabungkan branch
+v
